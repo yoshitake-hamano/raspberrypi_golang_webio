@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+a.out
 
 # Folders
 _obj
@@ -22,3 +23,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# for emacs
+.emacs.desktop*
+*~
+
